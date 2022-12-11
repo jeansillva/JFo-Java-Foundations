@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Exercicio5problema3 {
     public static void main(String[] args) throws Exception {
         /*
          * Implemente o exercício 5-2 usando a instrução switch e certifique-se de que o

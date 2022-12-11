@@ -1,4 +1,4 @@
-public class App {
+public class Exercicio2 {
     public static void main(String[] args) throws Exception {
         /*
          * Use oito instruções de impressão para recriar a carinha feliz acima. Sua arte

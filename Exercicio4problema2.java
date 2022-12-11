@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Exercicio4problema2 {
     public static void main(String[] args) throws Exception {
         /*
          * Você deve implementar o seguinte:

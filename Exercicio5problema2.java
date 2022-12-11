@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TrafficLightChecker {
+public class Exercicio5problema2 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite a cor do semáforo (1- Vermelho, 2- Verde, 3- Amarelo): ");

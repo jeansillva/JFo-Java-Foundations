@@ -1,4 +1,4 @@
-public class App {
+public class Exercicio2problema2 {
     public static void main(String[] args) {
         /*
          * Neste exercício, você criará sua própria obra de arte.
